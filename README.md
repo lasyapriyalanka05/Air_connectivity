@@ -44,3 +44,18 @@ Enter number of connections (edges): 2
 Enter connections as:   
 0 1 5
 1 2 7
+
+## ✅ Sample Output
+
+
+
+---
+
+## 💡 How to Run
+
+### 1. Compile the Code
+
+```bash
+gcc dijkstra_places.c -o dijkstra
+
+
