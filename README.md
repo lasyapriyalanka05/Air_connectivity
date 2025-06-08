@@ -35,3 +35,12 @@ Dijkstra’s algorithm calculates the shortest distance from **Delhi** to each a
 ---
 
 ## 🧪 Sample Input
+
+Enter number of places (vertices): 3
+Place 1: Delhi
+Place 2: Mumbai
+Place 3: Chennai
+Enter number of connections (edges): 2
+Enter connections as:   
+0 1 5
+1 2 7
