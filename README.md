@@ -58,4 +58,24 @@ Enter connections as:
 ```bash
 gcc dijkstra_places.c -o dijkstra
 
+# RUN THE PROGRAM
+./dijkstra
+
+🧼 Memory Management
+
+All dynamically allocated memory is properly freed using free() to avoid memory leaks.
+
+⸻
+
+🔧 Customization Ideas
+	•	Change the source vertex dynamically via user input
+	•	Display the actual shortest path (not just distance)
+	•	Add support for reading from or writing to files
+	•	Visualize the graph using external tools
+👨‍💻 Author
+
+Lasya Priya
+
+
+
 
