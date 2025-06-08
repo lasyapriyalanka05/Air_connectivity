@@ -19,3 +19,19 @@ This C program implements **Dijkstra's Algorithm** using **Adjacency Lists** to 
 ## 📌 Sample Use Case
 
 Imagine a scenario with 3 airports:
+
+Dijkstra’s algorithm calculates the shortest distance from **Delhi** to each airport.
+
+---
+
+## 🛠️ How It Works
+
+- **Graph Representation:** Adjacency List
+- **Algorithm:** Dijkstra’s using Min Heap
+- **Data Structures:**
+  - `Graph`: Contains an array of adjacency lists
+  - `MinHeap`: Supports efficient retrieval of minimum distance vertex
+
+---
+
+## 🧪 Sample Input
