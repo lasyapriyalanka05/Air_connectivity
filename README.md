@@ -1,0 +1,21 @@
+# ✈️ Dijkstra’s Algorithm in C Using Adjacency List (Graph of Places/Airports)
+
+This C program implements **Dijkstra's Algorithm** using **Adjacency Lists** to find the shortest distance from a source place (e.g., airport or city) to all other places in a graph.
+
+---
+
+## 🧠 What It Does
+
+- Takes user input for:
+  - Number of places (vertices)
+  - Names of the places
+  - Connections between them (edges with distances)
+- Represents the graph using adjacency lists
+- Runs Dijkstra's algorithm from a **fixed source vertex (vertex 0)** (can be modified to make source dynamic)
+- Outputs the **shortest distance** from the source place to all other places
+
+---
+
+## 📌 Sample Use Case
+
+Imagine a scenario with 3 airports:
